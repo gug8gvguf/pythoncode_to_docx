@@ -1,2 +1,4 @@
 # pythoncode_to_docx
 一个把python代码复制到word文档中的小工具
+# 适用对象
+大学生作业经常要把python代码放word中可以试试这个工具，有多合一功能
